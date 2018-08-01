@@ -61,8 +61,8 @@ body {
   margin-right: auto;
 }
 
-.center-text {
-  text-align: center;
+.justify-text {
+  text-align: justify;
 }
 
 /* Body text */
@@ -830,6 +830,7 @@ article .article-metadata {
 #projects.home-section .project-summary {
   font-size: 0.9rem;
   margin-bottom: 0.4rem;
+  text-align: justify;
 }
 
 #projects.home-section .project-tags {
