@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Greydon Gilmore</title>
-    <link>https://greydongilmore.github.io/project/</link>
-    <description>Recent content in Projects on Greydon Gilmore</description>
+    <title>Imaging on Greydon Gilmore</title>
+    <link>https://greydongilmore.github.io/tags/imaging/</link>
+    <description>Recent content in Imaging on Greydon Gilmore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://greydongilmore.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greydongilmore.github.io/tags/imaging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://greydongilmore.github.io/project/imaging_with_dbs/</guid>
       <description>Postoperative imaging in DBS is crucial to determine final electrode position and assess surgical complications. The most important safety concern with postoperative MRI of DBS electrodes is the potential risk of heating during the scanning procedure. The electrical field accompanying the RF magnetic field induces current within the electrode wires, which essentially act as antennas. The induced current passes through the electrode contacts into the surrounding tissue, resulting in heating and potential lesions.</description>
-    </item>
-    
-    <item>
-      <title>Predicting Subthalamic Nucleus</title>
-      <link>https://greydongilmore.github.io/project/predicting-subthalamic-nucleus/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://greydongilmore.github.io/project/predicting-subthalamic-nucleus/</guid>
-      <description>Deep brain stimulation of the subthalamic nucleus (STN) has been shown to benefit individuals living with Parkinson disease. The STN is a very small surgical target (7.0mm x 4.0mm), which makes targeting the nucleus very difficult. Furthermore, the sensorimotor subdivision of the STN is the optimal target location for optimal clinical motor symptom improvement. This subdivision is a much smaller region located in the dorso-lateral aspect, recent studies have show characteristic signal features in this area.</description>
     </item>
     
   </channel>

@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Imaging With DBS Electrodes</title>
+      <link>https://greydongilmore.github.io/project/imaging_with_dbs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://greydongilmore.github.io/project/imaging_with_dbs/</guid>
+      <description>Postoperative imaging in DBS is crucial to determine final electrode position and assess surgical complications. The most important safety concern with postoperative MRI of DBS electrodes is the potential risk of heating during the scanning procedure. The electrical field accompanying the RF magnetic field induces current within the electrode wires, which essentially act as antennas. The induced current passes through the electrode contacts into the surrounding tissue, resulting in heating and potential lesions.</description>
+    </item>
+    
+    <item>
       <title>Predicting Subthalamic Nucleus</title>
       <link>https://greydongilmore.github.io/project/predicting-subthalamic-nucleus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
