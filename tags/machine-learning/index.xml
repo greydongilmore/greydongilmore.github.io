@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://greydongilmore.github.io/project/predicting-subthalamic-nucleus/</guid>
-      <description>Deep brain stimulation of the subthalamic nucleus (STN) has been shown to benefit individuals living with Parkinson disease. The STN is a very small surgical target (7.0mm x 4.0mm), which makes targeting the nucleus very difficult. Furthermore, the sensorimotor subdivision of the STN is the optimal target location for optimal clinical motor symptom improvement. This subdivision is a much smaller region located in the dorso-lateral aspect, recent studies have show characteristic signal features in this area.</description>
+      <description>Optimal targeting of the subthalamic nucleus (STN) for Parkinson disease is essential to the clinical outcome. Machine learning, using single and multi-unit spike recordings from the operating room, will be used to estimate STN boundaries and optimal electrode placement.</description>
     </item>
     
   </channel>
